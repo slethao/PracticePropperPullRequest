@@ -12,3 +12,4 @@ Optional Toppings:
     - olives
     - pineapple
     - onions
+    - garlic
