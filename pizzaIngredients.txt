@@ -1,0 +1,15 @@
+- tomatoes
+- cheese
+- flour
+- water
+- butter
+- olive oil
+
+Optional Toppings:
+    - pepperoni
+    - peppers
+    - sasuages
+    - olives
+    - pineapple
+    - onions
+    - garlic
